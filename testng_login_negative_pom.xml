@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/teju3/IdeaProjects/SeleniumWebAutomationFramework05">
         <classes>
-            <class name="com.akash.dhembare2000.tests.sample.TestVWONegativeLogin">
+            <class name="com.akash.dhembare2000.tests.vwo.TestVWOLoginNegative_POM">
             </class>
         </classes>
     </test>
