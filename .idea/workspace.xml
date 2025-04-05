@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ed288b4-acdc-4447-ac8e-c6fcbf048234" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/base/CommonToAllPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/driver/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/pages/pageFactory/DashboardPage_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/pages/pageFactory/LoginPage_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/pages/pageObjectModel/DashboardPage_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/pages/pageObjectModel/LoginPage_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/akash/dhembare2000/utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/base/CommonToAllTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/listeners/RetryAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/listeners/RetryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/tests/sample/TestVWONegativeLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/tests/vwo/TestVWOLoginNegative_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/tests/vwo/TestVWOLoginNegative_POM_Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_login_negative_pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_login_negative_pom_retry.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5ed288b4-acdc-4447-ac8e-c6fcbf048234" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,6 +151,35 @@
       <option name="presentableId" value="Default" />
       <updated>1743163860819</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1743831157993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743831157993</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1743831196448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743831196448</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1743831285497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743831285497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
